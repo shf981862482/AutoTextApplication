@@ -2,6 +2,8 @@
 
 欢迎看我的博客
 
+http://blog.csdn.net/qq_28195645/article/details/51971452
+
 配置我们的app下的 build.gradle
 
 ```
